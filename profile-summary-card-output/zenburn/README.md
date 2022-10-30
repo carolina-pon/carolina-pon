@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/carolina-pon/carolina-pon/main/profile-summary-card-output/zenburn/4-productive-time.svg)
-```
-
-    
