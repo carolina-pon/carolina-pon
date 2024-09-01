@@ -1,7 +1,7 @@
 
 
 ## ポートフォリオ / 制作に携わったもの
-主にRuby on Railsを中心とし学習、開発をしておりました。
+主にRuby on Railsを中心とし学習、開発をしております。
 <br>また2024年現在、TypeScript,Vue.js,Nuxt.jsの学習をはじめ、フロントエンドの個人開発も行っております。
 
 - [点の展2021](https://github.com/carolina-pon/tennoten)
