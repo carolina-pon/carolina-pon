@@ -1,9 +1,20 @@
 
 
-## 🐈 Welcome to Carolina's Page
+## ポートフォリオ / 制作に携わったもの
+主にRuby on Railsを中心とし学習、開発をしておりました。
+<br>また2024年現在、TypeScript,Vue.js,Nuxt.jsの学習をはじめ、フロントエンドの個人開発も行っております。
 
-- [点の展HP](http://www.tennnoten.com/)　[点の展2021 / リポジトリ](https://github.com/carolina-pon/tennoten)
+- [点の展2021](https://github.com/carolina-pon/tennoten)
 <br>自身も運営＆作家として参加している展示グループのHPです。
-<br>2021年当時コロナ禍で現地での展示ができず、オンライン上での作品展示のため制作しました。
-<br>現在は展示ごとにコンテンツ内容を変更、随時機能追加を行っています。
+<br>2021年当時コロナ禍で現地での展示が叶わず、オンライン上での作品展示のためRuby on RailsでWebアプリケーションを制作しました。
+- [点の展2024 フロントエンド](https://github.com/carolina-pon/tennoten-front-v2) / [点の展2024 バックエンド](https://github.com/carolina-pon/tennoten-v2)
+<br>現在フロントエンドにNuxt.js、バックエンドにRuby on Rails(APIモード)を採用しHPリニューアルに向け制作中です。
 
+- [インスタグラム風アプリ](https://github.com/carolina-pon/insta-clone)
+<br>メンタリングして頂いていたエンジニアさんに都度コードレビューを行なっていただきながら、インスタグラム風のWebアプリケーションを制作しました。
+
+- EXiNA オフィシャルHP制作(現在は公開終了) / [Figma HPデザイン](https://www.figma.com/design/Cd0yFi02w5gdrzbpzcHzyp/EXiNA-HP?node-id=0-1&t=S2bprL848NGhCZl0-1)
+<br>ミュージシャン EXiNAさんのHPを制作いたしました。レスポンシブでのWebデザイン、HPの制作代行を行いました。
+
+- 不動産マッチングアプリ
+<br>共同開発にて参画いたしました。主にNuxt.jsでフロントエンドにてコンポーネントを作成し、UIの実装を行いました。
