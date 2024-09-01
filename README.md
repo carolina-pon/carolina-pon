@@ -13,7 +13,7 @@
 - [インスタグラム風アプリ](https://github.com/carolina-pon/insta-clone)
 <br>メンタリングして頂いていたエンジニアさんに都度コードレビューを行なっていただきながら、インスタグラム風のWebアプリケーションを制作しました。
 
-- EXiNA オフィシャルHP制作(現在は公開終了) / [Figma HPデザイン](https://www.figma.com/design/Cd0yFi02w5gdrzbpzcHzyp/EXiNA-HP?node-id=0-1&t=S2bprL848NGhCZl0-1) (公開の許可は得ております)
+- EXiNA オフィシャルHP制作(現在は公開終了) / [Figma HPデザイン](https://www.figma.com/design/Cd0yFi02w5gdrzbpzcHzyp/EXiNA-HP?node-id=0-1&t=S2bprL848NGhCZl0-1) ※デザイン公開の許可は得ております
 <br>ミュージシャン EXiNAさんのHPを制作いたしました。レスポンシブでのWebデザイン、WixでのHPの制作代行を行いました。
 
 - 不動産マッチングアプリ
