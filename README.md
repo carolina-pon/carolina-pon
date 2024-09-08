@@ -8,7 +8,7 @@
 <br>自身も運営＆作家として参加している展示グループのHPです。
 <br>2021年当時コロナ禍で現地での展示が叶わず、オンライン上での作品展示のためRuby on RailsでWebアプリケーションを制作しました。
 - [点の展2024 フロントエンド](https://github.com/carolina-pon/tennoten-front-v2) / [点の展2024 バックエンド](https://github.com/carolina-pon/tennoten-v2)
-<br>現在フロントエンドにNuxt.js、バックエンドにRuby on Rails(APIモード)を採用しHPリニューアルに向け制作中です。
+<br>上記2021年に制作したHPのリニューアル版です。現在フロントエンドにNuxt.js、バックエンドにRuby on Rails(APIモード)を採用しHPリニューアルに向け制作中です。
 
 - [インスタグラム風アプリ](https://github.com/carolina-pon/insta-clone)
 <br>メンタリングして頂いていたエンジニアさんに都度コードレビューを行なっていただきながら、インスタグラム風のWebアプリケーションを制作しました。
